@@ -105,13 +105,13 @@ analytics:
 author:
     name: "최재송"
     avatar: "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-    bio: "I am an **amazing** person."
+    bio: "안녕하세요 백엔드 개발자 최재송 입니다."
     location: "South Korea"
     email:
     links:
         - label: "Email"
           icon: "fas fa-fw fa-envelope-square"
-          # url: "mailto:your.name@email.com"
+          url: "mailto:cjs5241@gmail.com"
         - label: "Website"
           icon: "fas fa-fw fa-link"
           # url: "https://your-website.com"
@@ -123,7 +123,7 @@ author:
           # url: "https://facebook.com/"
         - label: "GitHub"
           icon: "fab fa-fw fa-github"
-          # url: "https://github.com/"
+          url: "https://github.com/cjs1301"
         - label: "Instagram"
           icon: "fab fa-fw fa-instagram"
           # url: "https://instagram.com/"

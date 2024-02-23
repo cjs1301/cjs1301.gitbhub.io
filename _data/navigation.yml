@@ -10,6 +10,6 @@ main:
     #   url: /collection-archive/
     # - title: "Sitemap"
     #   url: /sitemap/
-sidebar:
-    - title: "전체 포스트"
-      text: "test"
+# sidebar:
+#     - title: "전체 포스트"
+#       text: "test"
