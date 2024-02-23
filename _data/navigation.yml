@@ -1,12 +1,16 @@
 # main links
 main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "전체 포스트"
-    url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    #  - title: "Quick-Start Guide"
+    #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    # - title: "About"
+    #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    - title: "전체 포스트"
+      url: /year-archive/
+    # - title: "Sample Collections"
+    #   url: /collection-archive/
+    # - title: "Sitemap"
+    #   url: /sitemap/
+sidebar:
+    - title: "전체 포스트"
+      image: assets/images/profile.png
+      image_alt: "image"
