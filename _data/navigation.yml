@@ -12,5 +12,6 @@ main:
     #   url: /sitemap/
 sidebar:
     - title: "전체 포스트"
-      image: assets/images/profile.png
+      image: profile.png
       image_alt: "image"
+      text: "test"
