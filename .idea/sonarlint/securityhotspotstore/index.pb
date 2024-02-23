@@ -18,9 +18,3 @@ Z
 *_posts/2023-12-26-오디야?_앱_설명.md,3/3/331c2ddb5a1e245c827cf6ba489ff744b20a3bff
 h
 8_posts/2023-12-26-오디야?_개인정보처리방침.md,d/c/dc656c8160fd4bb84b50e48cf1ad72d06c7805e8
-D
-_data/navigation.yml,2/b/2be422aeee711340aaa5e49cef05cf00d2df950a
-A
-_data/ui-text.yml,7/a/7ad80b7fff7f8d498a5a1fc441a39e522ab0ec3d
-B
-_layouts/home.html,f/8/f87bb2fcce406e16253570011cce02227981f242
