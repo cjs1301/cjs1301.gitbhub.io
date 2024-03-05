@@ -10,6 +10,10 @@ main:
     #   url: /collection-archive/
     # - title: "Sitemap"
     #   url: /sitemap/
+    - title: "카테고리"
+      url: /categories/
+    - title: "태그"
+      url: /tags/
 # sidebar:
 #     - title: "전체 포스트"
 #       text: "test"
