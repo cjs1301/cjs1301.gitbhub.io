@@ -26,5 +26,7 @@ K
 _sass/minimal-mistakes.scss,c/6/c64af4016a1cefd564b6137ac6ec175a5870dc62
 W
 '_sass/minimal-mistakes/skins/_plum.scss,3/6/362e5407b4dbb87b6bab218cab0b4039eaa9271f
-a
-1_posts/2024-03-07-데이터베이스_스터디.md,6/f/6fb0a94a00238a854533e45318a63ec68f22c791
+b
+2_posts/2024-03-07-데이터베이스_스터디1.md,1/0/101dbba38b4f612a900f583b8edc9ba5202eeb23
+b
+2_posts/2024-03-14-데이터베이스_스터디3.md,4/e/4eb9b0d777bdc229063e49bf5e5a013b15674fc5
